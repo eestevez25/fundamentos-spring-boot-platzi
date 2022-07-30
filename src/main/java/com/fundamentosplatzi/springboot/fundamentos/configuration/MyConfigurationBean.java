@@ -1,6 +1,8 @@
 package com.fundamentosplatzi.springboot.fundamentos.configuration;
 
 import com.fundamentosplatzi.springboot.fundamentos.bean.*;
+import com.fundamentosplatzi.springboot.fundamentos.pojo.UserPojo;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
